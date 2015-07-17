@@ -1,4 +1,4 @@
-trekrec
+React Boilerplate with Webpack and Babel
 
 ##Steps:
  - `npm install`
