@@ -1,7 +1,7 @@
 {
-  "name": "trekrec",
+  "name": "react-boilerplate-webpack-ES6",
   "version": "1.0.0",
-  "description": "travel app",
+  "description": "boilerplate for react using webpack and babel",
   "author": "David Goldberg",
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --progress --colors",
